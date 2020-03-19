@@ -1,0 +1,268 @@
+    1  locate umuzi
+    2  locate umuzi.md
+    3  locate umuzi
+    4  nano jonga.sh
+    5  chmod 0700 jonga.sh 
+    6  ./jonga.sh
+    7  nano jonga.sh 
+    8  ./jonga.sh 
+    9  locate recruits
+   10  ls
+   11  locate umuzi
+   12  cd workspace
+   13  touch umuzi.md
+   14  ls
+   15  locate umuzi
+   16  clear
+   17  ls
+   18  locate umuzi
+   19  locate umuzi -n 5 echo > search_result.md
+   20  cat search_result.md 
+   21  cd Documents
+   22  cd ..
+   23  cd Documents
+   24  touch pad.md
+   25  cd desktop
+   26  cd ..
+   27  cd desktop
+   28  cd Desktop
+   29  mkdir work
+   30  cp pad.md /home/recruit/Desktop pad_copy.md
+   31  cp pad.md /home/recruit/Desktop
+   32  ls
+   33  pwd
+   34  clear
+   35  touch search.sh
+   36  nano
+   37  nan search.sh
+   38  nano search.sh
+   39  chmod 0700 search.sh
+   40  ./search.sh
+   41  cat search_result.md
+   42  cd..
+   43  cd ..
+   44  cd Documents
+   45  mkdir pad.md
+   46  touch pad.md
+   47  cd ..
+   48  cd Desktop
+   49  mkdirork
+   50  mkdir work
+   51  cd ..
+   52  cd Documents
+   53  cp pad.md /home/recruit/Documents/
+   54  clear
+   55  cd Documents
+   56  touch pad.md
+   57  cd..
+   58  cd ..
+   59  cd Desktop
+   60  mkdir work
+   61  local updatedb
+   62  cp /home/recruit/Decuments/pad.md pad_copy.md
+   63  cp /home/recruit/Documents/pad.md pad_copy.md
+   64  ls
+   65  locate updatedb
+   66  cd ~-
+   67  locate pad_copy.md
+   68  locate updatedb
+   69  locate pad_copy.md
+   70  clear
+   71  touch try.sh
+   72  cat locat umuzi > try.sh
+   73  nano
+   74  locate
+   75  locate recruits
+   76  ./jonga.sh 
+   77  find umuzi
+   78  ls
+   79  find umuzi.md
+   80  locate umuzi
+   81  name= locate "umuzi"
+   82  echo $name
+   83  clear
+   84  locate umuzi
+   85  cat try.sh
+   86  ano
+   87  nano try.sh
+   88  cd Documents
+   89  touch task5.1.sh
+   90  nano
+   91  chmod 0700
+   92  chmod 0700 task5.1.sh
+   93  ./task5.1.sh
+   94  cd
+   95  cd Desktop
+   96  touch task5.2.sh
+   97  nano task5.2.sh 
+   98  chmod 0700 task5.2.sh
+   99  ./task5.2.sh
+  100  touch task5.3.sh
+  101  nano task5.3.sh
+  102  chmod 0700 task5.1.sh
+  103  chmod 0700 task5.3.sh 
+  104  ./task5.3.sh 
+  105  locate updatedb
+  106  task5.6.sh
+  107  touch task5.6.sh
+  108  nano task5.6.sh
+  109  chmod 0700 task5.6.sh
+  110  ./task5.6.sh
+  111  locate pad_copy.md
+  112  sudo updatedb
+  113  locate pad_copy.md
+  114  sudo updatedb 
+  115  clear
+  116  cd ..
+  117  cd wordspce
+  118  cd workspace
+  119  touch pdf_finder.sh
+  120  nano pdf_finder.sh 
+  121  chmon 0700 pdf_finder.sh 
+  122  chmod 0700 pdf_finder.sh 
+  123  ./pdf_finder.sh 
+  124  nano pdf_finder.sh 
+  125  ./pdf_finder.sh 
+  126  clear
+  127  echo pdf_finder.sh > workspace
+  128  ls
+  129  cat workspace 
+  130  nano search.sh
+  131  fg
+  132  pdf_finder.sh echo > workspace
+  133  clear
+  134  nano pdf_finder.sh
+  135  ls
+  136  nano pdf_finder.sh 
+  137  chmod 0700 pdf_finder.sh 
+  138  ./pdf_finder.sh 
+  139  sudo updater 
+  140  cd
+  141  cd Documents
+  142  ls
+  143  fg
+  144  nano pad
+  145  nano pdf_finder.sh
+  146  chmod 0700 pdf_finder.sh
+  147  ./pdf_finder.sh 
+  148  pdf_finder echo > pdf_findings.md
+  149  pdf_finder.sh echo > pdf_findings.md
+  150  sudo update 
+  151  suoupdtdb
+  152  sudo updatedb
+  153  ./pdf_finder.sh 
+  154  pdf_finder.sh echo > pdf_findings.md
+  155  cd
+  156  wordspace
+  157  orkspace
+  158  cd workspace
+  159  ls
+  160  nano pdf_finder.sh 
+  161  pdf_finder.sh echo > found_pdf.md
+  162  nano pdf_finder.sh 
+  163  chmod 0700 pdf_finder.sh 
+  164  ./pdf_finder.sh 
+  165  sudo updatedb
+  166  ./pdf_finder.sh echo > found_pdf.md
+  167  cat found_pdf.md 
+  168  clear
+  169  nano my_bio.md
+  170  mv /home/recruits/my_files
+  171  mkdir my_files
+  172  mv my_bio.md /home/recruits/my_files
+  173  mvmv my_bio.md /home/recruits/my_files
+  174  mv my_bio.md /home/recruits/my_files
+  175  mv my_bio.md /home/recruit/workspace/my_files
+  176  cd my_files
+  177  ls
+  178  clear
+  179  cd ..
+  180  sudo apt update
+  181  sudo apt upgrade
+  182  sudo apt install
+  183  sudo apt install tree
+  184  sudo dpkg-1
+  185  cd Downloads
+  186  sudo dpkg -i code_1.43.1-1584515895_amd64.deb 
+  187  clear
+  188  cd
+  189  mkdir git-basic-exercises
+  190  cd git-basic-exercises/
+  191  ls
+  192  ls-a
+  193  git init
+  194  sudo apt install git
+  195  ls
+  196  ls -a
+  197  git status
+  198  touch README.md
+  199  ls -a
+  200  git status
+  201  git log
+  202  rm README.md 
+  203  git init
+  204  git status
+  205  touch README.md
+  206  ls -a
+  207  git status
+  208  git log
+  209  git add
+  210  git add README.md 
+  211  git status
+  212  git rm README.md 
+  213  -f
+  214  git rm --cached README.md 
+  215  ls -a
+  216  git status
+  217  git add README.md 
+  218  git commit -m "initial commit"
+  219  git config --global user.email "smkhonzana@gmail.com"
+  220  git config --global user.name "siyamthandamkhonzana"
+  221  git commit -m "initial commit"
+  222  git log
+  223  q
+  224  git log q
+  225  nano README.md 
+  226  git status
+  227  git commit -m "second commit"
+  228  nano README.md 
+  229  git commit -m "third commit"
+  230  git status
+  231  git add README.md 
+  232  git sttus
+  233  git status
+  234  git commit -m "second commit"
+  235  git commit -m "third commit"
+  236  git log
+  237  git checkout
+  238  cat README.md
+  239  git checkout master
+  240  cat README.md
+  241  git checkout
+  242  git branch
+  243  git banch milkshake-flavours
+  244  git branch milkshake-flavours
+  245  git branch
+  246  git checkout
+  247  git branch
+  248  git ccheckout -m milkshake-flavours
+  249  git checkout -m milkshake-flavours
+  250  git branch
+  251  nano milkshakes.md
+  252  git status
+  253  git add milkshakes.md "added initial flavours"
+  254  git add milkshakes.md 
+  255  git commit "added initial flavours"
+  256  git commit -m "added initial flavours"
+  257  git log
+  258  git branch history
+  259  git log
+  260  history > history.txt
+  261  git log
+  262  git status
+  263  cat history.txt 
+  264  rm history.txt 
+  265  git branch
+  266  ls
+  267  git checkout -m history
+  268  history > history.txt
